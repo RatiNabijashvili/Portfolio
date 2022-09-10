@@ -38,13 +38,13 @@ const About = () => {
           <h2 className={Styles.name}>Rati Nabijashvili</h2>
         </div>
         <p className={Styles.p}>
-          I’m a junior front-end web developer, self-taught <br /> programmer,
-          who want’s to become full-stack <br />
-          web developer. I have done some work for my <br /> own development,
-          also I have done Harvard’s <br />
-          cs50 and I have official degree. I’m student and <br />
-          studying in Georgian Technical University faculty
-          <br /> of computer science.
+          Hello, I’m a junior front-end web developer, self-taught <br />{' '}
+          programmer, who want’s to become a full-stack <br />
+          I have developed many personal projects, also <br /> I have completed
+          Harvard’s CS50 course and have an <br />
+          official degree. I am a student at Georgian Technical University{' '}
+          <br />
+          studying in the faculty of computer science.
         </p>
         <div className={Styles['components-div']}>
           <div className={Styles['first-column']}>
