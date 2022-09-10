@@ -42,7 +42,7 @@ const About = () => {
           who want’s to become full-stack <br />
           web developer. I have done some work for my <br /> own development,
           also I have done Harvard’s <br />
-          cs50 and I have official degree. I’am student and <br />
+          cs50 and I have official degree. I’m student and <br />
           studying in Georgian Technical University faculty
           <br /> of computer science.
         </p>
