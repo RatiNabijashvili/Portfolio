@@ -11,3 +11,12 @@ html {
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+@media (max-width: 450px) {
+  body {
+    overflow: hidden;
+  }
+  .background-image {
+    background-image: url(../img/nasa-Q1p7bh3SHj8-unsplash.jpg);
+  }
+}

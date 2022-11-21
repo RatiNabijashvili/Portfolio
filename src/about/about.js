@@ -50,12 +50,25 @@ const About = () => {
           <div className={Styles['first-column']}>
             <Components head='Country' subline='Georgia' />
             <Components head='Education' subline='Studying' />
-            <Components head='Linkedin' subline='Rati Nabijashvili' />
+            <a
+              href='https://www.linkedin.com/in/rati-nabijashvili-63a941235/'
+              target='_blank'
+            >
+              <Components head='Linkedin' subline='Rati Nabijashvili' />
+            </a>
           </div>
           <div className={Styles['second-column']}>
             <Components head='Age' subline='18' />
-            <Components head='Facebook' subline='Rati Nabijashvili' />
-            <Components head='Github' subline='RatiNabijashvili' />
+            <a
+              href='https://www.facebook.com/rati.nabijashvili.1'
+              target='_blank'
+            >
+              <Components head='Facebook' subline='Rati Nabijashvili' />
+            </a>
+            <a href='https://github.com/RatiNabijashvili' target='_blank'>
+              {' '}
+              <Components head='Github' subline='RatiNabijashvili' />
+            </a>
           </div>
         </div>
       </div>

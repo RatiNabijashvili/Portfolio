@@ -256,3 +256,8 @@ input {
     margin-top: 15em;
   }
 }
+@media (max-width: 450px) {
+  .main-div {
+    display: none;
+  }
+}

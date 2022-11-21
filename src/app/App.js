@@ -4,6 +4,7 @@ import Work from '../work/work'
 import Skills from '../skills/skills'
 import About from '../about/about'
 import Contact from '../contact/contact'
+import Styles from './app.module.css'
 
 function App() {
   return (

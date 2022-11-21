@@ -98,6 +98,13 @@ const Hero = () => {
           Every failure is a step to success - Wiliam Whewell
         </p>
       </div>
+      <div className={Styles['mobile-version']}>
+        <ul className={Styles['mobile-ul']}>
+          <li className={Styles['mobile-li']}>I am not created for mobile</li>
+          <li className={Styles['mobile-li']}>you can visit from a desktop</li>
+          <li className={Styles['mobile-li']}>Sorry ♡</li>
+        </ul>
+      </div>
     </div>
   )
 }

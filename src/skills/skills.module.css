@@ -129,3 +129,9 @@
     height: 1400px;
   }
 }
+
+@media (max-width: 450px) {
+  .main-div {
+    display: none;
+  }
+}
